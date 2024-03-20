@@ -20,7 +20,7 @@
                 </h2>
                 <p class="hero-text fw-semibold">Meraih Masa Depan yang Sukses dengan Menjadi Insan Cerdas dan Kompetitif
                 </p>
-                <a type="button" href="" class="btn btn-success mx-auto my-auto px-5 mt-4 fs-6 fw-bold text-white">
+                <a type="button" href="beasiswa" class="btn btn-success mx-auto my-auto px-5 mt-4 fs-6 fw-bold text-white">
                     Daftar Beasiswa
                 </a>
             </div>

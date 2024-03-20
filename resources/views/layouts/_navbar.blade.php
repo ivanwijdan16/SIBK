@@ -20,12 +20,12 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link {{ request()->is('about') ? 'active' : '' }}" href="">Daftar Beasiswa</a>
+                        <a class="nav-link {{ request()->is('about') ? 'active' : '' }}" href="beasiswa">Daftar Beasiswa</a>
                     </li>
 
                     <li class="nav-item">
                         <a class="nav-link {{ request()->is('articles*') ? 'active' : '' }}"
-                            href="">Hasil</a>
+                            href="hasil">Hasil</a>
                     </li>
                 </div>
             </ul>
